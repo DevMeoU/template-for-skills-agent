@@ -1,6 +1,6 @@
 # Template for Skills Agent
 
-A starter template for creating Anthropic-style Agent Skills.
+template-for-skills-agent is a starter template for creating Anthropic-style Agent Skills.
 
 This repository provides:
 
