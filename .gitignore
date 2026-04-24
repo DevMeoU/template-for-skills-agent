@@ -1,0 +1,8 @@
+dist/
+*.skill
+*.zip
+*.bak.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
